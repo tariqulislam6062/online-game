@@ -87,3 +87,19 @@ margin-top: 0px;
     background-color:rgba(140, 87, 238, 0.03);
     padding: 10px 100px;
 }
+.online-game{
+    text-align: center;
+}
+.online{
+    color: #0B0223;
+    font-size: 48px;
+    font-weight: 700;
+}
+.funny{
+    color: #F948B2;
+}
+.image-content{
+    display: flex;
+    padding: 50px;
+    gap: 20px;
+}
