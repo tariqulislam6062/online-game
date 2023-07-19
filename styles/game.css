@@ -103,3 +103,24 @@ margin-top: 0px;
     padding: 50px;
     gap: 20px;
 }
+.Download{
+    display: flex;
+    padding: 10px 100px;
+    gap: 100px;
+    text-align: center;
+}
+.instantly{
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 60px;
+    margin-bottom: 20px;
+}
+.play2{
+    color: #F948B2;
+}
+.image-position{
+    position: relative;
+    bottom: 250px;
+    right: 300px;
+
+}
