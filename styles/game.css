@@ -167,6 +167,14 @@ margin-top: 0px;
     background-color: #0B0223;
 }
 
-   
+@media screen  and (max-width: 576px) {
 
+    .container
+    
+    {
+        flex-direction: column;
+        padding: 50px;;
+    }
+   
+}
 
